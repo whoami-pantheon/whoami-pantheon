@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Bearer of Subtle Chaos
 ----------------------
 
-I write code the way others follow map; noticing the gaps, tracing the edges, seeing what folds back on itself.
+I write code the way people follow mapp; noticing the gaps, tracing the edges, seeing what folds back on itself.
 
 Projects pile up in corners of curiosity, half-experiments, half-solutions, each leaving a faint echo.
 
