@@ -102,12 +102,26 @@ Everything here exists somewhere between precision and chaos, between what works
 <p align="left"> <a href="https://www.github.com/whoami-pantheon" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/clive-kaiser" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 
 
+
+### 📌 Pinned Repos
+![](https://github-contributor-stats.vercel.app/api?username=whoami-pantheon&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
+
+---
+
+![](https://github-readme-stats.vercel.app/api?username=whoami-pantheon&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=whoami-pantheon&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=whoami-pantheon&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
 ### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
+<div style="display: flex; gap: 0.5rem; align-items: center;">
+  <a href="https://www.buymeacoffee.com/whoamipantheon">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" />
+  </a>
+  <a href="https://www.ko-fi.com/whoamipantheon">
+    <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150" />
+  </a>
+</div>
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/whoamipantheon"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/whoamipantheon"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-
-</ul>
