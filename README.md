@@ -6,7 +6,7 @@ Bearer of Subtle Chaos
 
 I focus on adversary simulation, human attack surfaces, and the failure modes that emerge when systems "work".
 
-I design security and technology as systems that must survive contact with real users,real incentives, and real adversaries.
+I design security and technology as systems that must survive contact with real users,real incentives, real adversaries, and inform strategic decisions.
 
 I write code the way people follow maps; noticing the gaps, tracing the edges, seeing what folds back on itself.
 
