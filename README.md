@@ -6,7 +6,7 @@ Bearer of Subtle Chaos
 
 I write code the way people follow maps; noticing the gaps, tracing the edges, seeing what folds back on itself.
 
-Projects pile up in corners of curiosity, half-experiments, half-solutions, each leaving a faint echo.
+Projects layer in corners of curiosity; half experiments, the rest solutions, each leaving a faint echo.
 
 I break things to understand them. I refactor to see their limits.
 
