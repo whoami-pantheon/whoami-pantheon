@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Bearer of Subtle Chaos
 ----------------------
 
-I focus on adversary simulation, human attack surfaces, and the failure modes that emerge after systems "work".
+I focus on adversary simulation, human attack surfaces, and the failure modes that emerge when systems "work".
 
 I write code the way people follow maps; noticing the gaps, tracing the edges, seeing what folds back on itself.
 
