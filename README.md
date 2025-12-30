@@ -6,7 +6,7 @@ Bearer of Subtle Chaos
 
 I build architectures that survive contact with the real world: real users, real incentives, and real adversaries, and inform strategic decisions. I trace patterns and show the failure modes that emerge when systems "work".
 
-* **Specialties:** Adversary simulation, human attack surfaces, security strategy, systems thinking
+* **Specialties:** Adversary simulation, human attack surfaces, security strategy, systems thinking.
 
 * **Current Engine(s):**
    * [**BlackMorror**](https://github.com/whoami-pantheon/BlackMorror) - Hyper-realistic adversary simulation engine identifying security gaps before they manifest (A mirror of adversarial thought).
