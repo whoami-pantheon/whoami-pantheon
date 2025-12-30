@@ -32,7 +32,7 @@ In this space, systems remember what you forget.
 
 * 🌍  Operating remotely from Nigeria
 * ✉️  Contact: [clivekaiser22@gmail.com](mailto:clivekaiser22@gmail.com)
-* 🤝  I'm open to collaborating on work that challenge the symmetry of power, uncovers hidden patterns, or leave a permanent mark on the infrastructure of the real.
+* 🤝  I'm open to collaborating on work that challenge the symmetry of power, uncovers hidden patterns, or leaves a permanent mark on the infrastructure of the real.
 * ⚡   Observing the ways human behaviour, machine intelligence, and security protocols influence one another.
 
 
