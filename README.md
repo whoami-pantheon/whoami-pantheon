@@ -22,7 +22,7 @@ Everything here exists somewhere between precision and chaos, between what works
 
 * 🌍  Operating remotely from Nigeria
 * ✉️  You can contact me at [clivekaiser22@gmail.com](mailto:clivekaiser22@gmail.com)
-* 🚀  I'm currently working on [BlackMorror](http://github.com/whoami-pantheon)
+* 🚀  I'm currently working on [BlackMorror](http://github.com/whoami-pantheon/BlackMorror)
 * 🤝  I'm open to collaborating on work that bends systems, uncovers hidden patterns, or leaves something lingering.
 * ⚡  I experiment with the ways human behaviour, machine intelligence, and security systems influence one another.
 
