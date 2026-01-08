@@ -1,7 +1,7 @@
 Bearer of Subtle Chaos
 ----------------------
 
-I build architectures that survive contact with the real world: real users, real incentives, and real adversaries, and inform strategic decisions. I trace patterns and show the failure modes that emerge when systems "work".
+I build architectures that survive contact with the real world: real users, real incentives, real adversaries, and inform strategic decisions. I trace patterns and show the failure modes that emerge when systems "work".
 
 * **Specialties:** Adversary simulation, human attack surfaces, security strategy, systems thinking.
 
