@@ -1,19 +1,19 @@
 Bearer of Subtle Chaos
 ----------------------
 
-I build architectures that survive contact with the real world: real users, real incentives, real adversaries, and inform strategic decisions. I trace patterns and show the failure modes that emerge when systems "work".
+I build architectures that survive contact with the real world: real users, real incentives, real adversaries. Then use what they reveal to inform strategic decisions. I trace patterns and show the failure modes that emerge when systems "work".
 
 * **Specialties:** Adversary simulation, human attack surfaces, security strategy, AI systems, machine intelligence, systems thinking.
 
 * **Current Engine(s):**
    * [**BlackMorror**](https://github.com/whoami-pantheon/BlackMorror) - Hyper-realistic adversary simulation engine identifying security gaps before they manifest (A mirror of adversarial thought).
-   * **HASIx (Human Attack Suface Index)** - A quantitative framework for measuring human attack surface at individual and organizational levels.
+   * **HASIx (Human Attack Surface Index)** - A quantitative framework for measuring human attack surface at individual and organizational levels.
    * **Oracle** - A behavioral engine that maps public trails into the specific moment a structure’s human layer will fail.
-   * [**AI Infrastructure & Training**](https://huggingface.co/whoami-pantheon) - Experimenting with pre-continuous training, fine-tuning, post-training, and deployment of AI systems, with an emphasis on controllable, offline-capable intelligence.
-   * [**MCP & AI Skills**](https://github.com/whoami-pantheon/praetor) - Building Model Context Protocol integrations and reusable AI skills that give models structured access to tools, context, and specialized capabilities.
+   * [**AI Infrastructure & Training**](https://huggingface.co/whoami-pantheon) - Building and experimenting with controllable, offline-capable AI systems.
+   * [**MCP & AI Skills**](https://github.com/whoami-pantheon/praetor) - Building tool-connected model architectures and reusable capability layers.
  
-**Machine Intelligence:**
-  * Pre-continuous training, fine-tuning, and post-training of AI models.
+**Machine Intelligence & AI Systems:**
+  * Continued pre-training, fine-tuning, and post-training of AI models.
   * Offline and local AI infrastructure and inference.
   * MCP integrations and tool-connected model architectures.
   * AI skills: reusable capability layers for specialized reasoning, context, and execution.
@@ -39,14 +39,14 @@ In this space, systems remember what you forget.
 * 🌍  Operating remotely from Nigeria
 * ✉️  Contact: [clivekaiser22@gmail.com](mailto:clivekaiser22@gmail.com)
 * 🤝  I'm open to collaborating on work that challenge the symmetry of power, uncovers hidden patterns, or leaves a permanent mark on the infrastructure of the real.
-* ⚡   Observing the ways human behaviour, machine intelligence, and security protocols influence one another.
+* ⚡   Observing how human behaviour, machine intelligence, and security architectures shape one another.
 
 
-**Built With:**
-  * **Cybersecurity & Technology Leadership:** Security Strategy · Technology Strategy · Enterprise Architecture · Risk & Resilience · Governance · Security Operating Models · Adversary Simulation
+**Capabilities & Stack:**
+  * **Security, Technology & Enterprise Strategy:** Security Strategy · Technology Strategy · Enterprise Architecture · Risk & Resilience · Governance · Security Operating Models · Adversary Simulation
   * **Security Engineering:** Offensive Security · Threat Hunting · Detection Engineering · DFIR · Security Automation
-  * **AI Systems:** Model Training · Fine-tuning · Post-training · Local/Offline AI · MCP · AI Skills · Agentic Systems
-  * **Engineering:** Python · GO · MERN Stack · React · APIs · Automation · Systems Architecture
+  * **AI Systems:** Model Training · Continued Pre-training · Fine-tuning · Post-training · Local/Offline AI · MCP · AI Skills · Agentic Systems
+  * **Systems Engineering:** Python · Go · Node.js · React · APIs · Automation · Systems Architecture
 
 ---
 
