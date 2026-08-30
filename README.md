@@ -3,14 +3,23 @@ Bearer of Subtle Chaos
 
 I build architectures that survive contact with the real world: real users, real incentives, real adversaries, and inform strategic decisions. I trace patterns and show the failure modes that emerge when systems "work".
 
-* **Specialties:** Adversary simulation, human attack surfaces, security strategy, systems thinking.
+* **Specialties:** Adversary simulation, human attack surfaces, security strategy, AI systems, machine intelligence, systems thinking.
 
 * **Current Engine(s):**
    * [**BlackMorror**](https://github.com/whoami-pantheon/BlackMorror) - Hyper-realistic adversary simulation engine identifying security gaps before they manifest (A mirror of adversarial thought).
    * **HASIx (Human Attack Suface Index)** - A quantitative framework for measuring human attack surface at individual and organizational levels.
    * **Oracle** - A behavioral engine that maps public trails into the specific moment a structure’s human layer will fail.
+   * [**AI Infrastructure & Training**](https://huggingface.co/whoami-pantheon) - Experimenting with pre-continuous training, fine-tuning, post-training, and deployment of AI systems, with an emphasis on controllable, offline-capable intelligence.
+   * [**MCP & AI Skills**](https://github.com/whoami-pantheon/praetor) - Building Model Context Protocol integrations and reusable AI skills that give models structured access to tools, context, and specialized capabilities.
+ 
+**Machine Intelligence:**
+  * Pre-continuous training, fine-tuning, and post-training of AI models.
+  * Offline and local AI infrastructure and inference.
+  * MCP integrations and tool-connected model architectures.
+  * AI skills: reusable capability layers for specialized reasoning, context, and execution.
+  * Agentic systems and AI orchestration.
 
-* **Philosophy:**   Code like a map; Notice the gaps, trace the edges, understand how the engine folds back on itself.
+* **Philosophy:**   Code like a map; Notice the gaps, trace the edges, understand how the engine learns, adapts, and folds back on itself.
 
 Here, you'll notice the unusual is standard:
 
@@ -32,6 +41,12 @@ In this space, systems remember what you forget.
 * 🤝  I'm open to collaborating on work that challenge the symmetry of power, uncovers hidden patterns, or leaves a permanent mark on the infrastructure of the real.
 * ⚡   Observing the ways human behaviour, machine intelligence, and security protocols influence one another.
 
+
+**Built With:**
+  * **Cybersecurity & Technology Leadership:** Security Strategy · Technology Strategy · Enterprise Architecture · Risk & Resilience · Governance · Security Operating Models · Adversary Simulation
+  * **Security Engineering:** Offensive Security · Threat Hunting · Detection Engineering · DFIR · Security Automation
+  * **AI Systems:** Model Training · Fine-tuning · Post-training · Local/Offline AI · MCP · AI Skills · Agentic Systems
+  * **Engineering:** Python · GO · MERN Stack · React · APIs · Automation · Systems Architecture
 
 ---
 
