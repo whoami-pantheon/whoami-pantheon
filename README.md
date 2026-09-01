@@ -12,7 +12,7 @@ I build architectures that survive contact with the real world: real users, real
    * [**AI Infrastructure & Training**](https://huggingface.co/whoami-pantheon) - Building and experimenting with controllable, offline-capable AI systems.
    * [**MCP & AI Skills**](https://github.com/whoami-pantheon/praetor) - Building tool-connected model architectures and reusable capability layers.
  
-**Machine Intelligence & AI Systems:**
+* **Machine Intelligence & AI Systems:**
   * Continued pre-training, fine-tuning, and post-training of AI models.
   * Offline and local AI infrastructure and inference.
   * MCP integrations and tool-connected model architectures.
